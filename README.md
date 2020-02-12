@@ -1,2 +1,5 @@
-<h1> good evening guys
-  how are u all
+<h1> HOW ARE U
+  git readme
+  git add
+  git commit
+  git origin
