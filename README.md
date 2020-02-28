@@ -16,4 +16,4 @@
 
 **watsapp qr code**
 
-   ![qr-code (7)](https://user-images.githubusercontent.com/60747203/75566575-e5b8fa00-5a75-11ea-825f-a7ae96dcd544.png)
+   ![qr-code (1) (1)](https://user-images.githubusercontent.com/60747203/75567134-06358400-5a77-11ea-847d-99a01c00b896.png)
